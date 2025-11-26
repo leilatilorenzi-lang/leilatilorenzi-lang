@@ -1,16 +1,20 @@
-## Hi there 👋
+✨ Olá! Eu sou a Leila
 
-<!--
-**leilatilorenzi-lang/leilatilorenzi-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Desenvolvedora Backend
+🐧 Usuária apaixonada por Linux
+🎓 19 anos — explorando tecnologia, código limpo e arquitetura de software
+🚀 Sempre aprendendo e construindo projetos open-source
 
-Here are some ideas to get you started:
+Ferramentas Backend 🧰
+C
+C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Banco de Dados
+🐬 sqlite
+
+Linux User 🐧
+Mint its my favorite!
+Git 🐙
+
+![Leila GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
