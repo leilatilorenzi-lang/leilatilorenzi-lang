@@ -45,6 +45,3 @@
 - Curto estudar estruturas de dados, desempenho e boas práticas  
 - Sempre aberta para colaborar em projetos open-source ✨  
 
----
-
-Se quiser, posso criar uma versão ainda mais estilosa (com banners, badges, emojis temáticos, ou até um layout mais minimalista). Só me avisar! 💜
