@@ -29,11 +29,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=leilatilorenzi-lang&show_icons=true&theme=tokyonight&hide_border=true"
     height="160px"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilatilorenzi-lang&layout=compact&theme=tokyonight&hide_border=true"
     height="160px"
   />
 </p>
