@@ -43,5 +43,5 @@
 ## 💬 Sobre mim
 - Amo explorar sistemas Linux e entender como tudo funciona por baixo dos panos  
 - Curto estudar estruturas de dados, desempenho e boas práticas  
-- Sempre aberta para colaborar em projetos open-source ✨  
-
+- Sempre aberta para colaborar em projetos open-source ✨
+- 
