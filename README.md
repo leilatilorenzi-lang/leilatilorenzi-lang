@@ -1,7 +1,7 @@
 <h2 align="center">✨ Olá! Eu sou a Leila ✨</h2>
 
 <p align="center">
-  👩‍💻 <strong>Desenvolvedora Backend</strong> • 🐧 <strong>Linux Enthusiast</strong> <br>
+  👩‍💻 <strong>Engenheira de software</strong> • 🐧 <strong>Linux Enthusiast</strong> <br>
   🎓 <strong>20 anos</strong> — apaixonada por tecnologia, código limpo e arquitetura de software <br>
   🚀 Sempre aprendendo e construindo projetos open-source
 </p>
